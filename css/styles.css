@@ -1,5 +1,6 @@
 body {
   font-family:Arial;
+  margin: 15px
 }
 h1 {
   text-align: center;
@@ -9,4 +10,12 @@ h2 {
 }
 h3 {
   color:darkblue
+}
+.projects {
+  border: dotted;
+  padding: 14px;
+  background-color: bisque;
+}
+.dog-names {
+  color:brown
 }
