@@ -8,6 +8,7 @@
 
 * _HTML_
 * _CSS_
+* _Bootstrap_
 
 
 ## Description
@@ -30,7 +31,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _No known bug, but this website will be updated later with newer information._
+* _No known bug, but this website will be updated later with newer information and better projects._
 
 ## License
 
