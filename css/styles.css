@@ -9,7 +9,7 @@ h2 {
   text-align: center;
 }
 h3 {
-  color:darkblue
+  color:darkblue;
 }
 .projects {
   border: dotted;
@@ -17,5 +17,9 @@ h3 {
   background-color: bisque;
 }
 .dog-names {
-  color:brown
+  color:brown;
+}
+.introP {
+  text-align: center;
+  float: center;
 }
