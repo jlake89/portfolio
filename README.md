@@ -34,7 +34,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_MIT License_
+_[MIT License](/LICENSE.txt)_
 
 Copyright (c) _2022_ _Joel Lake_
 
