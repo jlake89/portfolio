@@ -13,21 +13,17 @@
 
 ## Description
 
-_Portfolio project contains HTML and CSS code that I used to create a working portfilio website. This page also tells a little about myself. This page will be updated with better more advanced projects as time goes on, but for now shows my first two weeks of projects._
+_This project contains HTML and CSS code that I used to create a portfilio website that displays some of my background, hobbies, interests, and student projects._
 
 ## GitHub Pages Link
 
-* -fdsfsd-
+* -[jlake89.github.io/portfolio](jlake89.github.io/portfolio)jlake89.github.io/portfolio-
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Clone https://github.com/jlake89/portfolio_
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser_
 
 ## Known Bugs
 
