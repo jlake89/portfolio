@@ -17,11 +17,11 @@ _This project contains HTML and CSS code that I used to create a portfilio websi
 
 ## GitHub Pages Link
 
-* -jlake89.github.io/portfolio-
+* -https://jlake89.github.io/portfolio/-
 
 ## Setup/Installation Requirements
 
-1. _Clone https://github.com/jlake89/portfolio_
+1. _Clone https://github.com/jlake89/portfolio.git_
 2. _Navigate to the top level of the directory._
 3. _Open index.html in your browser_
 
