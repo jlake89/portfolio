@@ -17,13 +17,13 @@ _This project contains HTML and CSS code that I used to create a portfilio websi
 
 ## GitHub Pages Link
 
-* -[jlake89.github.io/portfolio](jlake89.github.io/portfolio)jlake89.github.io/portfolio-
+* -jlake89.github.io/portfolio-
 
 ## Setup/Installation Requirements
 
-* _Clone https://github.com/jlake89/portfolio_
-* _Navigate to the top level of the directory._
-* _Open index.html in your browser_
+1. _Clone https://github.com/jlake89/portfolio_
+2. _Navigate to the top level of the directory._
+3. _Open index.html in your browser_
 
 ## Known Bugs
 
@@ -37,4 +37,4 @@ Copyright (c) _2022_ _Joel Lake_
 
 ## Contact Information
 
-* -joelcooperlake@gmail.com-
+* -Joel Lake: joelcooperlake@gmail.com-
