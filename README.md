@@ -1,29 +1,29 @@
-# _Joel Lake's Epicodus Portfolio Page_
+# Joel Lake's Epicodus Portfolio Page
 
-#### By _**Joel Lake**_
+#### By **Joel Lake**
 
-#### _Portfolio webpage to showcase my myself and my work as a student at Epicodus._
+#### Portfolio webpage to showcase my myself and my work as a student at Epicodus.
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _Bootstrap_
+* HTML
+* CSS
+* Bootstrap
 
 
 ## Description
 
-_This project contains HTML and CSS code that I used to create a portfilio website that displays some of my background, hobbies, interests, and student projects._
+This project contains HTML and CSS code that I used to create a portfilio website that displays some of my background, hobbies, interests, and student projects.
 
 ## GitHub Pages Link
 
-* -https://jlake89.github.io/portfolio/-
+* https://jlake89.github.io/portfolio/
 
 ## Setup/Installation Requirements
 
-1. _Clone https://github.com/jlake89/portfolio.git_
-2. _Navigate to the top level of the directory._
-3. _Open index.html in your browser_
+1. Clone https://github.com/jlake89/portfolio.git
+2. Navigate to the top level of the directory.
+3. Open index.html in your browser
 
 ## Known Bugs
 
@@ -31,10 +31,10 @@ _This project contains HTML and CSS code that I used to create a portfilio websi
 
 ## License
 
-_[MIT License](/LICENSE.txt)_
+[MIT License](/LICENSE.txt)
 
-Copyright (c) _2022_ _Joel Lake_
+Copyright (c) 2022 _Joel Lake_
 
 ## Contact Information
 
-* -Joel Lake: joelcooperlake@gmail.com-
+* Joel Lake Email: joelcooperlake@gmail.com
